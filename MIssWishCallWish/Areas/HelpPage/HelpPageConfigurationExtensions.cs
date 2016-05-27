@@ -7,9 +7,9 @@ using System.Linq;
 using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Description;
-using MIssWishCallWish.Areas.HelpPage.Models;
+using MissWish.Areas.HelpPage.Models;
 
-namespace MIssWishCallWish.Areas.HelpPage
+namespace MissWish.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

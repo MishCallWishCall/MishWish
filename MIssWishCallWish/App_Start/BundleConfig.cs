@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace MIssWishCallWish
+namespace MissWish
 {
     public class BundleConfig
     {

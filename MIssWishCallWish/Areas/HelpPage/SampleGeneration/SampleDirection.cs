@@ -1,4 +1,4 @@
-namespace MIssWishCallWish.Areas.HelpPage
+namespace MissWish.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

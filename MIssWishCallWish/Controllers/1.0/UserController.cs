@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace MIssWishCallWish.Controllers._1._0
+namespace MissWish.Controllers._1._0
 {
     public class UserController : ApiController
     {

@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace MIssWishCallWish.Areas.HelpPage
+namespace MissWish.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

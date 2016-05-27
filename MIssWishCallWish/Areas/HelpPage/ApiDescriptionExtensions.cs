@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace MIssWishCallWish.Areas.HelpPage
+namespace MissWish.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {
