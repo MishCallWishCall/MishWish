@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissWishCallWish.Api", "MIssWishCallWish\MissWishCallWish.Api.csproj", "{973B2D06-8AE6-47AE-AACE-CB94A4148BD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissWish.Api", "MIssWishCallWish\MissWish.Api.csproj", "{973B2D06-8AE6-47AE-AACE-CB94A4148BD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissWishCallWish.Web", "MissWishCallWish.Web\MissWishCallWish.Web.csproj", "{58EB3BC6-F9A4-4AF1-9ECE-96A8D7DBD8FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissWish.Web", "MissWishCallWish.Web\MissWish.Web.csproj", "{58EB3BC6-F9A4-4AF1-9ECE-96A8D7DBD8FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
